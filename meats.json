@@ -1,0 +1,11 @@
+{
+  "title": "Meats",
+  "description": "This is the meats for the whatscooking app",
+  "movies": [
+    { "id": "1", "meat": "beef" },
+    { "id": "2", "meat": "hot dog" },
+    { "id": "3", "meat": "chicken" },
+    { "id": "4", "meat": "bologna"},
+    { "id": "5", "meat": "salami" }
+  ]
+}
